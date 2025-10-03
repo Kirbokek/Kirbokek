@@ -1,4 +1,7 @@
 ## Hi there 👋
+### ++++++[>++++++++++++<-]>.[-]<++++[>+++++++++++++++++++++++++<-]>+.+++++++..+++.[-]<++++[>+++++++++++<-]>.------------.[-]<++++++++[>+++++++++++++++<-]>-.--------.+++.------.--------.[-]<+++[>+++++++++++<-]>.
+
+![silksong image omg](sillies/20251002212410_1.jpg)
 
 <!--
 **Kirbokek/Kirbokek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
